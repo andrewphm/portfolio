@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  max-width: 90%;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+aside {
+  float: right;
+  width: 50%;
+}
+
+aside figure {
+  margin: 12px;
+}
+
+.class__container {
+  height: 100%;
+}
+
+article {
+  width: 100%;
+  max-width: 980px;
+}
+
+.article__image {
+  width: 100%;
+}
+
+.aside-image {
+  width: 100%;
+}
